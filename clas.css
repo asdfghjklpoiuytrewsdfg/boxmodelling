@@ -1,0 +1,27 @@
+.box {
+    width: 1000px;
+    border: 10px solid red;
+    margin: auto;
+    background-color: black;
+    padding: 52px 45px;
+}
+
+.box p {
+    background: #1FE8B7;
+    padding: 54px 40px;
+    width: 817px;
+
+    margin: 30px auto 0;
+}
+
+body {
+    background-color: mediumseagreen;
+}
+
+h1 {
+    background-color: #311313;
+    width: 501px;
+    height: 50px;
+    margin: 0 auto;
+    color: aliceblue;
+    text-align: center;
